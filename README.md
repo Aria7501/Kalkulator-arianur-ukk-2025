@@ -10,5 +10,5 @@ ketiga saya juga membuat menu java scrip agar bisa di tampilkan dalam kalkulator
 # made by
  Ariya nur 2025
 
-#terima kasih
+# terima kasih
 
